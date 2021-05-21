@@ -8,8 +8,8 @@
 	<section id="breadcrumbs" class="breadcrumbs">
 		<div class="container">
 
-			<div class="d-flex justify-content-between align-items-center">
-				<h2>회사 소개</h2>
+			<div class="d-flex justify-content-between align-items-center titlefonts">
+				<h1><strong>회사 소개</strong></h1>
 				<ol>
 					<li><a href="/biz">Home</a></li>
 					<li>회사소개</li>
