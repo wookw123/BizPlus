@@ -25,5 +25,11 @@ public class HomeController {
 		return "about/aboutus";
 	}
 	
+	@RequestMapping(value = "/history")
+	public String history() {
+		System.out.println("==회사 연혁==");
+		return "about/history";
+	}
+	
 	
 }

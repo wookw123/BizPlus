@@ -85,7 +85,7 @@
 						<ul>
 							<li><a href="aboutus">소개</a></li>
 							<li><a href="organization">조직도</a></li>
-							<li><a href="testimonials.html">연혁</a></li>
+							<li><a href="history">회사연혁</a></li>
 						</ul></li>
 
 					<li><a href="services.html">사업 영역</a></li>
