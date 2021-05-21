@@ -18,4 +18,12 @@ public class HomeController {
 		System.out.println("== 조직도 ==");
 		return "about/organization";
 	}
+	
+	@RequestMapping(value = "/aboutus")
+	public String aboutus() {
+		System.out.println("==회사 소개==");
+		return "about/aboutus";
+	}
+	
+	
 }
