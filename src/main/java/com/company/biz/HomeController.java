@@ -9,21 +9,26 @@ public class HomeController {
 
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home() {
-		System.out.println("== 메인 화면 ==");
+		System.out.println("== 硫붿씤 �솕硫� ==");
 		return "home";
 	}
 
 	@RequestMapping(value = "/organization")
 	public String organization() {
-		System.out.println("== 조직도 ==");
+		System.out.println("== 議곗쭅�룄 ==");
 		return "about/organization";
 	}
 	
 	@RequestMapping(value = "/aboutus")
 	public String aboutus() {
-		System.out.println("==회사 소개==");
+		System.out.println("==�쉶�궗 �냼媛�==");
 		return "about/aboutus";
 	}
 	
+	@RequestMapping(value = "/history")
+	public String history() {
+		System.out.println("== 회사 연혁 ==");
+		return "about/history";
+	}
 	
 }

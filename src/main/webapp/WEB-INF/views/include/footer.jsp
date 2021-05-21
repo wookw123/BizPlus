@@ -22,7 +22,7 @@
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="/biz">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="aboutus">About us</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
             </ul>
           </div>
