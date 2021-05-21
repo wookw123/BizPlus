@@ -9,7 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  
+  font-family: 'Gothic A1', sans-serif;
   color: #4d4643;
 }
 
@@ -23,7 +24,8 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto", sans-serif;
+  
+  font-family: 'Gothic A1', sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -95,7 +97,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 50px;
 }
 
 /*--------------------------------------------------------------
@@ -123,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   color: #111;
   transition: 0.3s;
-  font-size: 13px;
+  font-size: 15px;
   text-transform: uppercase;
   font-weight: 600;
   font-family: "Roboto", sans-serif;
@@ -246,6 +248,8 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 10px;
   padding: 10px 0;
 }
+
+
 
 .mobile-nav * {
   margin: 0;
@@ -520,6 +524,10 @@ section {
   overflow: hidden;
 }
 
+.titlefonts{
+	color: white;
+}
+
 .section-bg {
   background-color: #f7f7f7;
 }
@@ -560,7 +568,7 @@ section {
   padding: 15px 0;
   background:  #ddc33e;
   min-height: 40px;
-  margin-top: 72px;
+  margin-top: 81px;
 }
 
 .breadcrumbs h2 {

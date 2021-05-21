@@ -150,4 +150,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+
+# aaa
 # End of https://www.toptal.com/developers/gitignore/api/maven,java,eclipse,java-web,windows,linux
