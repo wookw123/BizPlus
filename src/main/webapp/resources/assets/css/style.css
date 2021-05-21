@@ -95,7 +95,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 50px;
 }
 
 /*--------------------------------------------------------------
@@ -123,7 +123,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   color: #111;
   transition: 0.3s;
-  font-size: 13px;
+  font-size: 15px;
   text-transform: uppercase;
   font-weight: 600;
   font-family: "Roboto", sans-serif;
@@ -560,7 +560,7 @@ section {
   padding: 15px 0;
   background:  #ddc33e;
   min-height: 40px;
-  margin-top: 72px;
+  margin-top: 81px;
 }
 
 .breadcrumbs h2 {
