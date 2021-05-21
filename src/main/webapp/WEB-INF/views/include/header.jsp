@@ -61,15 +61,15 @@
         <ul>
           <li class="active"><a href="/biz">Home</a></li>
 
-          <li class="drop-down"><a href="">About</a>
+          <li class="drop-down"><a href="">회사 소개</a>
             <ul>
-              <li><a href="about.html">About Us</a></li>
-              <li><a href="organization">Organization</a></li>
-              <li><a href="testimonials.html">Testimonials</a></li>
+              <li><a href="aboutus">소개</a></li>
+              <li><a href="organization">조직도</a></li>
+              <li><a href="testimonials.html">연혁</a></li>
             </ul>
           </li>
 
-          <li><a href="services.html">Services</a></li>
+          <li><a href="services.html">사업 영역</a></li>
           <li><a href="contact.html">Contact</a></li>
 
         </ul>
