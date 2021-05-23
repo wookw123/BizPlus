@@ -89,7 +89,7 @@
 						</ul></li>
 
 					<li><a href="services.html">사업 영역</a></li>
-					<li><a href="contact.html">Contact</a></li>
+					<li><a href="contact">Contact</a></li>
 
 				</ul>
 			</nav>

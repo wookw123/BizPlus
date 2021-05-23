@@ -25,5 +25,11 @@ public class HomeController {
 		return "about/aboutus";
 	}
 	
+	@RequestMapping(value = "/contact")
+	public String contact() {
+		System.out.println("==찾아오시는 길==");
+		return "about/contact";
+	}
+	
 	
 }
