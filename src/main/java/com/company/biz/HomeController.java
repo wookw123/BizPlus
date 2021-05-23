@@ -25,10 +25,17 @@ public class HomeController {
 		return "about/aboutus";
 	}
 	
+<<<<<<< HEAD
 	@RequestMapping(value = "/contact")
 	public String contact() {
 		System.out.println("==찾아오시는 길==");
 		return "about/contact";
+=======
+	@RequestMapping(value = "/history")
+	public String history() {
+		System.out.println("==회사 연혁==");
+		return "about/history";
+>>>>>>> 60ca93eb56da33a764bc5d22362b949c55ce33f2
 	}
 	
 	

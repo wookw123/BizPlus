@@ -29,14 +29,13 @@
 
 			<div class="section-title">
 				<h2>
-					About Us</strong>
+					회사 소개
 				</h2>
 			</div>
 
 			<div class="row content">
 				<div class="col-lg-6" data-aos="fade-right">
-					<img src="resources/assets/img/bizLogo2.png"
-						style="margin-left: 200px">
+					<img src="resources/assets/img/bizLogo3.png" style="margin-left: 200px; margin-top: 100px">
 				</div>
 				<div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
 					<p>
@@ -53,9 +52,12 @@
 					<p>MES(생산제조시스템)을 도입,구축하고 MES솔루션 부분과 구축된 사업에</p>
 					<p>ICT와 융합된 자동화 사업을 연계 하고 있는 4차 산업의 핵심인</p>
 					<p>“빅데이터 게더링 구축 전문기업”입니다.</p>
-
-
-					</p>
+					<p>현재 50여개의 고객사에 스마트공장 솔루션 프로그램을 계약 진행중이며,</p> 
+					<p>금년은 100억 목표로 노력하고 있습니다.</p>
+					<br>
+					<p>레드오션 시장에서의 치열한 경쟁에서 생존현실을 같이 고민하고 함께</p> 
+					<p>최선책을 찾아 전진하고 동참할 수 있는 <strong>종합적인 전문 컨설팅 기업</strong>이 되도록</p> 
+					<p>노력하겠습니다.</p>
 				</div>
 			</div>
 

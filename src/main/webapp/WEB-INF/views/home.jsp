@@ -68,17 +68,19 @@
 
         <div class="row content">
           <div class="col-lg-6" data-aos="fade-right">
-				<img src="resources/assets/img/bizLogo2.png" style="margin-left:200px">
+				<img src="resources/assets/img/bizLogo3.png" style="margin-left:200px">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0" data-aos="fade-left">
-            <p>
+           
              <h4><strong>(주)비즈플러스 글로벌</strong></h4>
              <br>
               국가에서 이루고자 하는 <strong>4차 산업</strong>을 기업에 도입하여 다가 올 미래 산업에
              <br><br>능동적으로 대응하고 축적된 기술로 지동화 사업을 
              <br><br>접목시켜 <strong>4차 산업</strong> 업계의 선두를 이루고자 합니다.
-
-            </p>
+			 <br><br>다양한 분야의 현장에서 진단, 평가, 컨설팅, 강의 등을 통해 축적된 노하우와 
+			 <br><br>경험으로 저희 전문 컨설턴트들은 빠른 시간안에 기업의 요구를 충족시키는데 
+			 <br><br>최선을 다하고 있습니다.
+   
           </div>
         </div>
 
