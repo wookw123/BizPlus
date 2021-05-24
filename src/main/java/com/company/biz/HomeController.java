@@ -46,4 +46,10 @@ public class HomeController {
 
 	}
 	
+	@RequestMapping(value = "/index.html")
+	public String index() {
+		System.out.println("== 조직도 ==");
+		return "home";
+	}
+	
 }
