@@ -1,18 +1,23 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
+	
 <!DOCTYPE html>
+
 <%@include file="../include/header.jsp"%>
 
-<!-- 오시는 길-->
 
+<section id="team">
+		<div class="section-title" data-aos="fade-up" style="margin-top:80px; margin-bottom:-5.8%">
+			<h2>
+				<strong>찾아오시는 길</strong>
+			</h2>
+		</div>
+</section>
 
 <!-- 카카오 맵 -->
 <section>
-	<div id="map"
-		style="width: 50%; height: 400px; margin: 0 auto; margin-top: 50px"></div>
-</section>
-
-<script type="text/javascript"
+	<div id="map" style="width: 50%; height: 400px; margin: 0 auto; margin-top:10px"></div>
+	<script type="text/javascript"
 	src="//dapi.kakao.com/v2/maps/sdk.js?appkey=e2eea98809b729761b0f5d5b5b37c3b8"></script>
 <script>
 	var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
@@ -36,7 +41,7 @@
 	// 마커가 지도 위에 표시되도록 설정합니다
 	marker.setMap(map);
 
-	var iwContent = '<div style="padding:5px; text-align : center;"> 비즈플러스 글로벌', // 인포윈도우에 표출될 내용으로 HTML 문자열이나 document element가 가능합니다
+	var iwContent = '<div style="padding:5px; margin-left:5px;"> 비즈플러스 글로벌', // 인포윈도우에 표출될 내용으로 HTML 문자열이나 document element가 가능합니다
 	iwPosition = new kakao.maps.LatLng(37.514757, 126.776307); //인포윈도우 표시 위치입니다
 
 	//인포윈도우를 생성합니다
@@ -59,27 +64,15 @@
 	var zoomControl = new kakao.maps.ZoomControl();
 	map.addControl(zoomControl, kakao.maps.ControlPosition.RIGHT);
 </script>
-
-<section id="team">
-	<div>
-		<div class="section-title" data-aos="fade-up">
-			<h2>
-				<strong>오시는 길</strong>
-			</h2>
-			<p>부천시 경기 부천시 수도로 88-15</p>
-			<p>디클래스 류 빌딩 4층 비즈플러스 글로벌</p>
-		</div>
-	</div>
+	
 </section>
 
 
-
-
-
-
-
-
-
+<section id="team">
+	<div>
+		<img src="resources/assets/img/contact/contact.png" style="width:45%; margin-left: 30%; margin-top: -5%">
+	</div>
+</section>
 
 
 <%@include file="../include/footer.jsp"%>

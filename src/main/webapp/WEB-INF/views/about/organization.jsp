@@ -27,12 +27,12 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2><strong>조직도</strong></h2>
-		  <p>고객에 대한 최상의 <strong>e-Business</strong> 서비스 제공을 위한</p>
-		  <p>최고의 기술력을 보유하고 있는 전문기술 조직을 구성, 운영</p>
+		  <h5>고객에 대한 최상의 <strong>e-Business</strong> 서비스 제공을 위한</h5>
+		  <h5>최고의 기술력을 보유하고 있는 전문기술 조직을 구성, 운영</h5>
         </div>
        	
        	<div class="section-title" data-aos="fade-up">
-  			<img src="resources/assets/img/org/org.png" class="img-fluid">
+  			<img src="resources/assets/img/org/org.png" style="width:70%; height:70%">
         </div>
 
       </div>

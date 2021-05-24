@@ -22,13 +22,13 @@
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="/biz">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="aboutus">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="solution">Solution</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4>Our Solution</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">SI 로봇 부문</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">중소·중견 솔루션 부문</a></li>
