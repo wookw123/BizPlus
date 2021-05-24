@@ -419,7 +419,7 @@
 .ri-chat-voice-fill:before { content: "\eb76"; }
 .ri-chat-voice-line:before { content: "\eb77"; }
 .ri-check-double-fill:before { content: "\eb78"; }
-.ri-check-double-line:before { content: "\eb79"; }
+.ri-check-double-line:before { content: "\eb79";  color: #ddc33e; }
 .ri-check-fill:before { content: "\eb7a"; }
 .ri-check-line:before { content: "\eb7b"; }
 .ri-checkbox-blank-circle-fill:before { content: "\eb7c"; }

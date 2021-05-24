@@ -14,7 +14,7 @@
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Welcome to <span>BIZ</span></h2>
-				<p>&nbsp;&nbsp;조직의 경영 및 제반 환경시스템을 지원하고, 보다 창조적이고 효율적인 기업경영의 툴(Tool)을 제공하여, 기업의 가치창출에 일조하는 경영기술을 연구 개발하는  종합 컨설팅 기업입니다.</p>              
+				<p>&nbsp;&nbsp;조직의 경영 및 제반 환경시스템을 지원하고, 보다 창조적이고 효율적인 기업경영의 툴(Tool)을 제공하여, 기업의 가치창출에 일조하는 경영기술을<br>연구 개발하는  종합 컨설팅 기업입니다.</p>              
             </div>
           </div>
         </div>
