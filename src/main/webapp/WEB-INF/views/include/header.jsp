@@ -88,7 +88,7 @@
 							<li><a href="history">회사연혁</a></li>
 						</ul></li>
 
-					<li><a href="services.html">사업 영역</a></li>
+					<li><a href="solution">솔루션</a></li>
 					<li><a href="contact">Contact</a></li>
 
 				</ul>
